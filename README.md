@@ -2,7 +2,7 @@
 
 ![I am GitHub Readme](https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>so if you want to say<b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="thesimtiaz" /> </p>
 
