@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Let's Code%20SVG%20🤠&text2=@%20thesImtiaz&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 [![Imtiaz's Streak](https://visitcount.itsvg.in/api?id=thesImtiaz&icon=0&color=6)](https://visitcount.itsvg.in)
 
