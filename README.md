@@ -32,6 +32,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/thesImtiaz)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-<div align="center">
+
 ![Imtiaz's Streak](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+  
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="thesImtiaz"/></p>
