@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
-![I am GitHub Readme](https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Let's Code%20SVG%20🤠&text2=@%20thesImtiaz&width=800&height=400)](https://github.com/thesImtiaz/svg-banners)
 
 [![Imtiaz's Streak](https://visitcount.itsvg.in/api?id=thesImtiaz&icon=0&color=6)](https://visitcount.itsvg.in)
 
@@ -36,5 +36,3 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="thesImtiaz"/>
 </div>
-
-<img src="https://raw.githubusercontent.com/thesImtiaz/thesImtiaz/output/snake.svg" alt="Snake animation"/>
