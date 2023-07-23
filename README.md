@@ -2,9 +2,7 @@
 
 ![I am GitHub Readme](https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="thesimtiaz" /> </p>
-
-[![](https://visitcount.itsvg.in/api?id=thesImtiaz&icon=0&color=6)](https://visitcount.itsvg.in)
+[![Imtiaz's Streak](https://visitcount.itsvg.in/api?id=thesImtiaz&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ### Things I code with
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
