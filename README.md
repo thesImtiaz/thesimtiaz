@@ -36,3 +36,5 @@
 ![Imtiaz's Streak](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="thesImtiaz"/></p>
+
+<p align="center"><a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></a></p>
