@@ -36,4 +36,5 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="thesImtiaz"/>
 </div>
+
 <img src="https://raw.githubusercontent.com/thesImtiaz/thesImtiaz/output/snake.svg" alt="Snake animation" />
