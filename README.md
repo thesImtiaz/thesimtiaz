@@ -34,7 +34,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ![Imtiaz's Streak](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="thesImtiaz"/></p>
 
-<p align="center"><a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></a></p>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="thesImtiaz"/>
+</div>
